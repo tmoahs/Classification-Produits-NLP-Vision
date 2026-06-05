@@ -1,4 +1,4 @@
-# Projet 6 : Classifiez automatiquement des biens de consommation
+# Classifiez automatiquement des biens de consommation
 
 ### Objectif & Résultat Principal
 

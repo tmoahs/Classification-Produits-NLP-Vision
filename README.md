@@ -6,8 +6,6 @@ Développement d’un classifieur multimodal de biens de consommation exploitant
 
 ---
 
-Ce sixième projet du parcours Data Scientist d'OpenClassrooms est une immersion dans le domaine des **données non structurées**. La mission consiste à construire un modèle capable de classifier automatiquement des biens de consommation en utilisant à la fois leurs **images** et leurs **descriptions textuelles**.
-
 ### Contexte
 
 La capacité à modéliser des données non structurées comme le texte ou les images est une compétence de plus en plus recherchée, menant à des postes spécialisés tels que *Data Scientist - NLP* ou *Computer Vision Engineer*. Ce projet vise à développer une expertise sur ces deux types de données afin de construire une solution de classification multimodale.
